@@ -9,3 +9,5 @@ print(name)
 m=[1,2,3]
 m.append(3)
 print(m)
+b="new"
+print(b)
